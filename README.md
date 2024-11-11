@@ -1,4 +1,4 @@
-# EMNLP LLM Safety Papers
+# EMNLP 2024 LLM Safety Papers
 
 This repo contains my notes for papers related to LLM safety (e.g., jailbreaks, red-teaming, guardrails).
 
